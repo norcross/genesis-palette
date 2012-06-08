@@ -1,0 +1,170 @@
+div#icon-gsd-icon {
+	background:url(../img/gs-design-icon.png) no-repeat 0 0!important;
+}
+
+/* Resize layout */
+.genesis_page_gsd_design .genesis-metaboxes {
+	width:90%;
+}
+
+.genesis_page_gsd_design .genesis-metaboxes .metabox-holder {
+	width:100%;
+}
+
+.genesis_page_gsd_design .genesis-metaboxes p.top-buttons {
+	float:left;
+	padding-left:20px;
+	padding-right:0;
+}
+
+.genesis_page_gsd_design .genesis-metaboxes div.bottom-buttons {
+	text-align:left;
+}
+
+/* other stuff */
+
+#gs-design-panel {}
+
+#gs-design-panel .design_group {
+	padding-bottom:20px;
+	overflow:hidden;
+	}
+
+#gs-design-panel h4 {
+	text-align:left;
+	margin:0 0 15px 0;
+	padding:0 0 5px 0;
+	font-size:1.3em;
+	line-height:1.6em;
+	border-bottom:1px solid #ccc;
+	}
+
+	/* Inner boxes */
+
+#gs-design-panel div.dg_inner {
+	float:left;
+	width:260px;
+	padding:0 10px 10px 0;
+}
+
+#gs-design-panel .design_group .dg_inner h5 {
+    font-size: 1.05em;
+    line-height: 1.3em;
+    margin: 0 0 10px;
+    padding: 0 0 5px;
+    text-align: left;
+	border-bottom:1px dotted #ccc;
+	}
+
+#gs-design-panel p {
+	width:100%;
+	display:block;
+	overflow:hidden;
+	margin:0 0 1em;
+	}
+
+	
+#gs-design-panel p label {
+	float:left;
+	width:100px;
+	padding: 4px;
+	line-height: 15px;
+}
+
+#gs-design-panel p input {
+	float:left;
+	width:80px;
+	margin:0;
+}
+
+#gs-design-panel p span.description {
+	padding:3px 20px 0 0;
+	text-align:right;
+	font-size:11px;
+	display:block;
+	clear:both;
+}
+
+ /* Checkbox */
+
+#gs-design-panel p.full {
+	float:left;
+	width:100%;
+	padding: 4px;
+	line-height: 15px;
+}
+
+#gs-design-panel p.nobreak label {
+	float:left;
+	width:200px;
+	padding: 4px;
+	line-height: 15px;
+}
+
+#gs-design-panel p.nobreak input {
+	float:left;
+	width:20px;
+	margin:0;
+} 
+
+/* Dropdowns */
+
+#gs-design-panel div.dg_inner select {
+	font-size:12px;
+}
+
+#gs-design-panel div.dg_inner select option {
+	font-size:12px;
+	line-height:14px;
+	padding:1px 8px 1px 3px;
+}
+
+#gs-design-panel div.dg_inner select.font_stack {
+	width:140px;
+	}
+
+#gs-design-panel div.font_group select.font_stack option.timesnew {
+	font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+}
+
+#gs-design-panel div.font_group select.font_stack option.georgia {
+	font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+
+#gs-design-panel div.font_group select.font_stack option.garamond {
+	font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+}
+
+#gs-design-panel div.font_group select.font_stack option.helvetica {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#gs-design-panel div.font_group select.font_stack option.verdana {
+	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+}
+
+#gs-design-panel div.font_group select.font_stack option.trebuchet {
+	font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif;
+}
+
+#gs-design-panel div.font_group select.font_stack option.impact {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif;
+}
+
+/* Toggle Switch */
+
+#gs-design-panel div.design_group h4 input.toggle_group {
+	float:right;
+	display:block;
+	background:url(../img/gs-toggle.png) no-repeat 0 -16px;
+	height:16px;
+	width:16px;
+	text-indent:-9999px;
+	cursor:pointer;
+    -webkit-appearance: none !important;
+    -moz-appearance: none;
+	border:none;
+	outline:none;
+}
+
+#gs-design-panel div.design_group h4 input.toggle_active {background-position:0 0;}

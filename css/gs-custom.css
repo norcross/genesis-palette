@@ -1,0 +1,203 @@
+
+
+	/* General */	
+
+.gs-custom a, .gs-custom a:visited {
+    color: #0D72C7;
+}
+
+.gs-custom a:hover, .gs-custom a:focus {
+    color: #0D72C7;
+}
+
+	/* Body */
+
+body.gs-custom, 
+.gs-custom p {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	color: #333333;
+	}
+
+body.gs-custom {
+	background-color: #D5D5D5;
+}
+
+.gs-custom #wrap {
+	-moz-box-shadow: 0 0 5px #999999;
+	-webkit-box-shadow: 0 0 5px #999999;
+	box-shadow: 0 0 5px #999999;
+}
+
+.gs-custom #inner {
+	background-color: #FFFFFF;
+}
+
+	/* Header Area */
+	
+.gs-custom #header {
+	background-color: #FFFFFF;
+}
+
+.gs-custom #title {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 36px;
+	font-weight: 300;
+	text-transform: uppercase;
+    color: #333333;
+}
+
+.gs-custom #title a {
+    color: #333333;
+}
+
+.gs-custom #title a:hover,
+.gs-custom #title a:focus {
+    color: #333333;
+}
+
+.gs-custom #description {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	text-transform: none;
+    color: #333333;
+}
+
+	/* Navigation */
+
+.gs-custom .menu-primary {
+    border-bottom: 1px solid #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+    background-color: #F5F5F5;
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+.gs-custom .menu-primary a {
+    color: #333333;
+    border-right: 1px solid #DDDDDD;
+}
+
+.gs-custom .menu-primary a:hover,
+.gs-custom .menu-primary a:focus {
+    color: #333333;
+}
+
+	/* Post Titles */
+
+.gs-custom .post h2.entry-title,
+.gs-custom .post h2.entry-title a,
+.gs-custom .post h1.entry-title,
+.gs-custom .page h1.entry-title {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 28px;
+	font-weight: 300;
+	color: #333333;
+}
+
+.gs-custom .post h2.entry-title a:hover,
+.gs-custom .post h2.entry-title a:focus {
+	color: #0D72C7;
+}
+
+	/* Post Meta */
+
+.gs-custom .post-info {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #333333;	
+}
+
+.gs-custom .post-info a, 
+.gs-custom .post-info a:visited {
+	color: #0D72C7;	
+}
+
+.gs-custom .post-info a:hover, 
+.gs-custom .post-info a:focus {
+	color: #0D72C7;	
+}
+
+	/* Post Content */
+
+.gs-custom .entry-content h1 {font-size: 16px;}
+.gs-custom .entry-content h2 {font-size: 28px;}
+.gs-custom .entry-content h3 {font-size: 24px;}
+.gs-custom .entry-content h4 {font-size: 20px;}
+.gs-custom .entry-content h5 {font-size: 18px;}
+.gs-custom .entry-content h6 {font-size: 16px;}
+
+	/* Widgets */
+
+.gs-custom .sidebar .widget {
+    border: 1px solid #DDDDDD;
+}
+
+.gs-custom .widget-area h4 {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+    background-color: #F5F5F5;
+    border-bottom: 1px solid #DDDDDD;
+	color:#333333;
+}
+
+.gs-custom .sidebar p,
+.gs-custom .sidebar ul,
+.gs-custom .sidebar li {
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	color:#333333;
+}
+
+.gs-custom .sidebar .widget-area ul li, 
+.gs-custom #footer-widgets .widget-area ul li {
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.gs-custom .sidebar p a,
+.gs-custom .sidebar p a:visited,
+.gs-custom .sidebar ul a,
+.gs-custom .sidebar ul a:visited,
+.gs-custom .sidebar li a,
+.gs-custom .sidebar li a:visited {
+	color:#0D72C7;
+}
+
+.gs-custom .sidebar p a:hover,
+.gs-custom .sidebar p a:focus,
+.gs-custom .sidebar ul a:hover,
+.gs-custom .sidebar ul a:focus,
+.gs-custom .sidebar li a:hover,
+.gs-custom .sidebar li a:focus {
+	color:#0D72C7;
+}
+		
+
+	/* Footer */
+	
+.gs-custom #footer {
+    background-color: #F5F5F5;
+	border-top: 1px solid #DDDDDD;
+	font-size: 14px;
+}
+
+.gs-custom #footer p {
+    color: #333333;
+}
+
+.gs-custom #footer a, 
+.gs-custom #footer a:visited {
+    color: #333333;
+}
+
+.gs-custom #footer a:hover, 
+.gs-custom #footer a:focus {
+    color: #0D72C7;
+}
+
+\n
